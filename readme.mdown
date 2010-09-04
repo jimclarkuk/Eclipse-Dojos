@@ -1,0 +1,4 @@
+ReadMe
+==========
+
+This repository contains three sets of projects that were created while working on the challenges detailed [here](http://github.com/jimclarkuk/Eclipse-Dojos/wiki).
